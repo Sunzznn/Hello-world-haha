@@ -1,0 +1,15 @@
+//
+//  TalkfunPrefixHeader.pch
+//  TalkfunSDKDemo
+//
+//  Created by talk－fun on 16/3/30.
+//  Copyright © 2016年 talk-fun. All rights reserved.
+//
+
+#ifndef TalkfunPrefixHeader_pch
+#define TalkfunPrefixHeader_pch
+
+#define SYSTEMVERSION [UIDevice currentDevice].systemVersion.integerValue
+#define DEVICEMODEL [UIDevice currentDevice].model
+
+#endif /* TalkfunPrefixHeader_pch */
